@@ -10,8 +10,7 @@ You are working with a major railroad operator that manages both freight and pas
 
 ## Data
 
-The project uses the following data source:  
-**[Railroad Data GitHub Repository](https://github.com/balasista/railroad_data)**  
+The project uses the following data source: **[Railroad Data GitHub Repository](https://github.com/balasista/railroad_data)**  
 It contains the following CSV files:
 
 - **Train_Operations** (TrainID, Date, Route, Departure_Time, Arrival_Time, Actual_Arrival, Freight_Type)
