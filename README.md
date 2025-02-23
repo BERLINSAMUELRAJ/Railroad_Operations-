@@ -89,6 +89,12 @@ The following advanced features were implemented:
 - Fuel Efficiency
 - Safety Incident Rate
 
+## SNAPSHOT OF THE DASHBOARD
+SEE THE FULL DASHBOARD HERE - [APP POWER BI LINK](https://app.powerbi.com/view?r=eyJrIjoiYWZlNDcxNTQtNTZkYS00ZDY5LWJmYWQtZDI3NWYxN2MzMmJkIiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
+
+**RailOps**
+
+
 ## Data Model Overview
 
 The data model integrates multiple datasets from five CSV files:
