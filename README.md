@@ -92,8 +92,29 @@ The following advanced features were implemented:
 ## SNAPSHOT OF THE DASHBOARD
 SEE THE FULL DASHBOARD HERE - [APP POWER BI LINK](https://app.powerbi.com/view?r=eyJrIjoiYWZlNDcxNTQtNTZkYS00ZDY5LWJmYWQtZDI3NWYxN2MzMmJkIiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
 
-**RailOps**
+### RAILOPS
 
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/RailOps%20.jpg)
+
+### PERFORMANCE
+
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/Performance.jpg)
+
+### EQUIPMENT
+
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/Equipment.jpg)
+
+### MAINTENANCE
+
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/Maintenance.jpg)
+
+### CREW
+
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/Crew.jpg)
+
+### INCIDENT
+
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/Incident.jpg)
 
 ## Data Model Overview
 
