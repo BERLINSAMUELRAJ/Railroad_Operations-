@@ -1,4 +1,5 @@
 # Railroad Operations & Performance Dashboard
+![](https://github.com/BERLINSAMUELRAJ/Railroad_Operations-/blob/main/MRA-Class-Hero-Image_Operations.png)
 
 ## Introduction
 
